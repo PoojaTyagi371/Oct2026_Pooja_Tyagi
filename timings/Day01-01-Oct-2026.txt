@@ -1,4 +1,4 @@
 3 Hour watched "GitHub to EC2 videos" on YouTube and completed the practical
 1 Hour practiced git and Linux commands
 1 Hour revision of morning class
-1 Hour check recording of Git class on youtube
+1 Hour check recording of Git class on youtube.

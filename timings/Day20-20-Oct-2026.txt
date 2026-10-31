@@ -1,0 +1,3 @@
+1hour practice for script
+2hour watched the recording for ansible playbook
+1hour task complete

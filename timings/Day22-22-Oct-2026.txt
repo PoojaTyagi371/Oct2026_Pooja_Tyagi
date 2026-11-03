@@ -1,0 +1,4 @@
+1 hour task completed
+1 hour class revise
+1 hour evening session
+1 hour practical done for terraform script for EC2 instance
